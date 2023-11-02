@@ -1,8 +1,3 @@
-![login1](https://github.com/ardakuvanc3/react-login-page/assets/122490388/26c514bb-6dbe-4ac8-8b30-cdec3d446bad)
-![sign1](https://github.com/ardakuvanc3/react-login-page/assets/122490388/6c3f2087-e75a-46d5-8a40-495b110fceb9)
-
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -73,3 +68,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+![login1](https://github.com/ardakuvanc3/react-login-page/assets/122490388/26c514bb-6dbe-4ac8-8b30-cdec3d446bad)
+![sign1](https://github.com/ardakuvanc3/react-login-page/assets/122490388/6c3f2087-e75a-46d5-8a40-495b110fceb9)
+
